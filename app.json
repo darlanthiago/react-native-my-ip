@@ -1,0 +1,17 @@
+{
+  "name": "meuIp",
+  "displayName": "meuIp",
+  "expo": {
+    "name": "meuIp",
+    "slug": "meuIp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
