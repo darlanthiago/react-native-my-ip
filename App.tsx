@@ -5,7 +5,7 @@ import logo from './assets/logo.png';
 
 export default function App() {
 
-  const [data, setData] = useState('');
+  const [data, setData] = useState('0.0.0.0');
 
   async function findMyIp() {
 
